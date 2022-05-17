@@ -1,4 +1,4 @@
-# Prevendo valores de ações com técnicas de `Machine Learning` e `Deep Learning`
+# Prevendo valores de ações com técnicas de `Machine Learning` e `Deep Learning` | empresas brasileiras
 ---
 
 Iremos explorar algumas técnicas de `Machine Learning` e `Deep Learning` para predição de valores de ações.
